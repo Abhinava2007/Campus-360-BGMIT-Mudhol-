@@ -1,0 +1,6 @@
+{
+  "name": "Campus 360 — BGMIT Mudhol",
+  "description": "Smart campus room search and three-language voice navigation system for BGMIT Mudhol.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
